@@ -52,26 +52,26 @@
     {
       "id": "valve.steam",
       "name": "Steam",
-      "wingetId": "Valve.Steam",
-      "installMethod": "direct",
+      "installMethod": "browser",
+      "browserUrl": "https://store.steampowered.com/about/",
       "category": "Gaming",
-      "description": "Valve's PC gaming storefront and launcher."
+      "description": "Valve's PC gaming storefront and launcher. Install opens Steam's own download page - GridShell leaves the actual install to you."
     },
     {
       "id": "heroicgameslauncher.heroic",
       "name": "Heroic Games Launcher",
-      "installMethod": "github",
-      "githubRepo": "Heroic-Games-Launcher/HeroicGamesLauncher",
+      "installMethod": "browser",
+      "browserUrl": "https://heroicgameslauncher.com/",
       "category": "Gaming",
-      "description": "Open-source launcher for Epic Games Store, GOG, and Amazon Games - a lighter alternative to running Epic's and GOG's own separate official launchers."
+      "description": "Open-source launcher for Epic Games Store, GOG, and Amazon Games. Install opens Heroic's own download page - GridShell leaves the actual install to you."
     },
     {
       "id": "itchio.itch",
       "name": "itch",
-      "wingetId": "ItchIo.Itch",
-      "installMethod": "direct",
+      "installMethod": "browser",
+      "browserUrl": "https://itch.io/app",
       "category": "Gaming",
-      "description": "Desktop app for itch.io, the indie game marketplace."
+      "description": "Desktop app for itch.io, the indie game marketplace. Install opens itch's own download page - GridShell leaves the actual install to you."
     },
     {
       "id": "microsoft.visualstudiocode",
