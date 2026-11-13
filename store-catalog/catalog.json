@@ -63,15 +63,7 @@
       "installMethod": "github",
       "githubRepo": "Heroic-Games-Launcher/HeroicGamesLauncher",
       "category": "Gaming",
-      "description": "Open-source launcher for Epic Games Store, GOG, and Amazon Games - a lighter alternative to Epic's own official launcher."
-    },
-    {
-      "id": "gog.galaxy",
-      "name": "GOG GALAXY",
-      "wingetId": "GOG.Galaxy",
-      "installMethod": "direct",
-      "category": "Gaming",
-      "description": "GOG's PC gaming storefront and launcher, with DRM-free installs."
+      "description": "Open-source launcher for Epic Games Store, GOG, and Amazon Games - a lighter alternative to running Epic's and GOG's own separate official launchers."
     },
     {
       "id": "itchio.itch",
