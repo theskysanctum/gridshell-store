@@ -269,6 +269,13 @@
       "wingetId": "Telegram.TelegramDesktop",
       "category": "Communication",
       "description": "Telegram is a privacy based communications app."
+    },
+    {
+    "id": "roblox.roblox",
+    "name": "Roblox",
+    "wingetId": "Roblox.Roblox",
+    "category": "Gaming",
+    "description": "The popular game Roblox."
     }
   ]
 }
