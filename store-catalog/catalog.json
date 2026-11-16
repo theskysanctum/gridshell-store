@@ -318,6 +318,13 @@
     "wingetId": "GIMP.GIMP",
     "category": "Creative",
     "description": "Open-source image editor and manipulator."
+    },
+    {
+    "id": "thedocumentfoundation.libreoffice",
+    "name": "LibreOffice",
+    "wingetId": "TheDocumentFoundation.LibreOffice",
+    "category": "Productivity",
+    "description": "A full Microsoft Office replacement."
     }
   ]
 }
