@@ -308,7 +308,9 @@
     {
     "id": "eugeny.tabby",
     "name": "Tabby Terminal",
-    "wingetId": "Eugeny.Tabby"
+    "wingetId": "Eugeny.Tabby",
+    "category": "Development",
+    "description": "The modern terminal with tabs and high customization."
     }
   ]
 }
