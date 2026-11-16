@@ -276,6 +276,20 @@
     "wingetId": "Roblox.Roblox",
     "category": "Gaming",
     "description": "The popular game Roblox."
+    },
+    {
+    "id": "elementlabs.lmstudio",
+    "name": "LM Studio",
+    "wingetId": "ElementLabs.LMStudio",
+    "category": "A.I.",
+    "description": "LM Studio is an easy to use desktop app for experimenting with local and open-source Large Language Models (LLMs)."
+    },
+    {
+    "id": "ollama.ollama",
+    "name": "Ollama - Local A.I.",
+    "wingetId": "Ollama.Ollama",
+    "category": "A.I.",
+    "description": "Get up and running with large language models locally."
     }
   ]
 }
