@@ -82,7 +82,7 @@
       "id": "obsproject.obsstudio",
       "name": "OBS Studio",
       "wingetId": "OBSProject.OBSStudio",
-      "category": "Streaming",
+      "category": "Visual & Audio",
       "description": "Free and open-source software for video recording and live streaming."
     },
     {
