@@ -46,7 +46,7 @@
       "id": "audacity.audacity",
       "name": "Audacity",
       "wingetId": "Audacity.Audacity",
-      "category": "Visual & Audio",
+      "category": "Creative",
       "description": "Free, open-source audio editor and recorder."
     },
     {
@@ -82,7 +82,7 @@
       "id": "obsproject.obsstudio",
       "name": "OBS Studio",
       "wingetId": "OBSProject.OBSStudio",
-      "category": "Visual & Audio",
+      "category": "Creative",
       "description": "Free and open-source software for video recording and live streaming."
     },
     {
@@ -316,7 +316,7 @@
     "id": "gimp.gimp",
     "name": "GIMP",
     "wingetId": "GIMP.GIMP",
-    "category": "Visual & Audio",
+    "category": "Creative",
     "description": "Open-source image editor and manipulator."
     }
   ]
