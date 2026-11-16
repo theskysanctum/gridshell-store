@@ -230,7 +230,7 @@
       "githubRepo": "eden-emu/eden",
       "apiBaseUrl": "https://git.eden-emu.dev/api/v1",
       "category": "Emulation",
-      "description": "Nintendo Switch emulator (Switch 1, with early Switch 2 support). Hosted on its own Forgejo instance, not GitHub, after Nintendo's legal campaign repeatedly took down its predecessor projects (Yuzu, Suyu, Citron) and its original Ryujinx codebase - that history means this project's download source could change or disappear without notice.",
+      "description": "Nintendo Switch emulator (Switch 1, with early Switch 2 support).",
       "platformSlugs": ["switch"]
     },
     {
