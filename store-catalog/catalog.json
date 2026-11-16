@@ -46,7 +46,7 @@
       "id": "audacity.audacity",
       "name": "Audacity",
       "wingetId": "Audacity.Audacity",
-      "category": "Media",
+      "category": "Visual & Audio",
       "description": "Free, open-source audio editor and recorder."
     },
     {
@@ -311,6 +311,13 @@
     "wingetId": "Eugeny.Tabby",
     "category": "Development",
     "description": "The modern terminal with tabs and high customization."
+    },
+    {
+    "id": "gimp.gimp",
+    "name": "GIMP",
+    "wingetId": "GIMP.GIMP",
+    "category": "Visual & Audio",
+    "description": "Open-source image editor and manipulator."
     }
   ]
 }
